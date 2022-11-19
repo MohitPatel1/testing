@@ -1,0 +1,1 @@
+import { variabl1 , variabl3} from './domLoader';
